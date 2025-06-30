@@ -1,6 +1,19 @@
 # Emotional-recognition-chatbot
-A chatbot that detects keywords related to emotions, and responds accordingly.
 
-**Wether you feel happy or sad, this bot will always be there for you!**
+# 🤖 Satori  
+*A Zen chatbot that understands your pain and roasts your bugs.*  
 
-*Filled and made with love, compassion, and comfort <3*
+## Features  
+- Emotion detection (`happy`, `sad`, `excited`, etc.)  
+- Dad jokes *so bad*, they loop back to genius  
+- Built by a 13-year-old who *refuses* to use training wheels  
+
+## Why?  
+Because the world needs more:  
+- **Emotional intelligence** (from robots)  
+- **Cringe humor** (from 13-year-olds)  
+
+## Future Goals  
+- [ ] Add *"period cramp"* sympathy mode   
+- [ ] Integrate with OpenAI (hopefully)  
+
